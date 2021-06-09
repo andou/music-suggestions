@@ -22,7 +22,7 @@
 - Doom
   - [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp?si=RjUWjTsBRsu6cVk9AlRgbw&dl_branch=1) 
     - [Obsidian](https://open.spotify.com/album/1ameBtOmrJFgiNXx8W7OLx?si=hQOOVQNXSESeb2xhLNJj9w&dl_branch=1)
-  - [Pallbearer]
+  - [Pallbearer](https://open.spotify.com/artist/2yeEmsTQMNHBlS5dhWtuD1?si=jcVXW4dtQyiHEMiojVUQEA&dl_branch=1)
     - [The foundations of burden](https://open.spotify.com/album/5hcHyM3KYY97gUZzfRlNZb?si=rRMZfpDpT82CF6FCLzOjXw&dl_branch=1) 
 - Black
   - [Dordeduh](https://open.spotify.com/artist/052X0cOZM6KscHPcJwsPh0?si=c2c2f401b0864bc2)
