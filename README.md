@@ -52,6 +52,8 @@
 ## Wishlist
 - [Mare Cognitum](https://open.spotify.com/artist/6hk43KSfwt4aYNH5N4qKcO?si=qihcbxzcSNuSSnbPdmHpHQ&dl_branch=1) 
   - [Solar Paroxism](https://open.spotify.com/album/5w0u922qWYRWXN6WPoqy9Y?si=s_JAH9N4TgGbRUMdvs8y4g&dl_branch=1)
+- [Martolea](https://open.spotify.com/artist/1Vzz2uyBtws42M4p4Sl4Db?si=9_xO8SQeRdSytGFbwdn-5A&dl_branch=1)
+  - [Noaptea dihăniilor](https://open.spotify.com/album/2Vc51wtFcYV1AjIHeedJfQ?si=xkhOkBJSRaGxblByAsnr0g&dl_branch=1)   
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
