@@ -18,7 +18,6 @@
 
 ## Wishlist
 - [Mare Cognitum](https://open.spotify.com/artist/6hk43KSfwt4aYNH5N4qKcO?si=qihcbxzcSNuSSnbPdmHpHQ&dl_branch=1) [Solar Paroxism](https://open.spotify.com/album/5w0u922qWYRWXN6WPoqy9Y?si=s_JAH9N4TgGbRUMdvs8y4g&dl_branch=1)
-- [Angry Metal Guy](https://www.angrymetalguy.com/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
