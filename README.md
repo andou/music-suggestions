@@ -12,6 +12,7 @@
 
 ## Sources of inspiration
 - [Angry Metal Guy](https://www.angrymetalguy.com/)
+  - https://www.angrymetalguy.com/portal-avow-review/ 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -56,6 +57,7 @@
   - [Noaptea dihăniilor](https://open.spotify.com/album/2Vc51wtFcYV1AjIHeedJfQ?si=xkhOkBJSRaGxblByAsnr0g&dl_branch=1)   
 - [Istapp](https://open.spotify.com/artist/6jiRPDlSiIzrd8dzFs2yzM?si=S_wEmsNJQJ-1iySZpQhsMw&dl_branch=1)
   - [Blekinge](https://open.spotify.com/album/02oYVOLrnGRch0kBm0FsFs?si=3UDDfy9STX--EnXs1EV9aw&dl_branch=1)
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
