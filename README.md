@@ -42,7 +42,7 @@
 - [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X?si=fVZfzuWPQpib3KEwpPbr8A&dl_branch=1) 
   - [Premonition](https://open.spotify.com/album/1gQVGrM3icLDTMJm5x9f8V?si=KmGj8AnoSLCtzqxhCm6pew&dl_branch=1)
 - [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3?si=2576de73fd144cc1)
-  - [Existence if futile](https://open.spotify.com/album/4u8vK40p0HuNgdtCZzfSDk?si=c475aeb5fa3f4c7f  
+  - [Existence if futile](https://open.spotify.com/album/4u8vK40p0HuNgdtCZzfSDk?si=c475aeb5fa3f4c7f)
 
 
 <div align="right">
