@@ -54,6 +54,8 @@
   - [Solar Paroxism](https://open.spotify.com/album/5w0u922qWYRWXN6WPoqy9Y?si=s_JAH9N4TgGbRUMdvs8y4g&dl_branch=1)
 - [Martolea](https://open.spotify.com/artist/1Vzz2uyBtws42M4p4Sl4Db?si=9_xO8SQeRdSytGFbwdn-5A&dl_branch=1)
   - [Noaptea dihăniilor](https://open.spotify.com/album/2Vc51wtFcYV1AjIHeedJfQ?si=xkhOkBJSRaGxblByAsnr0g&dl_branch=1)   
+- [Istapp](https://open.spotify.com/artist/6jiRPDlSiIzrd8dzFs2yzM?si=S_wEmsNJQJ-1iySZpQhsMw&dl_branch=1)
+  - [Blekinge](https://open.spotify.com/album/02oYVOLrnGRch0kBm0FsFs?si=3UDDfy9STX--EnXs1EV9aw&dl_branch=1)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
