@@ -4,7 +4,7 @@
 <ul>
 <li><a href="#sources-of-inspiration">Sources of inspiration</a></li>
 <li><a href="#masterpieces">Masterpieces</a></li>
-<li><a href="#breaking-the-heavy-rotation">Breaking the heavy rotation</a></li>
+<li><a href="#pick-an-album">Pick an album</a></li>
 <li><a href="#wishlist">Wishlist</a></li>
 </ul>
 
@@ -26,7 +26,7 @@
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Breaking the heavy rotation
+## Pick an album
 - [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X?si=fVZfzuWPQpib3KEwpPbr8A&dl_branch=1) 
   - [Premonition](https://open.spotify.com/album/1gQVGrM3icLDTMJm5x9f8V?si=KmGj8AnoSLCtzqxhCm6pew&dl_branch=1)
 
