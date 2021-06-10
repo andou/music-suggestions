@@ -19,7 +19,7 @@
 </div>
 
 
-## Masterpieces
+## Heavy :metal: Rotated
 - Doom
   - [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp?si=RjUWjTsBRsu6cVk9AlRgbw&dl_branch=1) 
     - [Obsidian](https://open.spotify.com/album/1ameBtOmrJFgiNXx8W7OLx?si=hQOOVQNXSESeb2xhLNJj9w&dl_branch=1)
