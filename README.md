@@ -53,6 +53,7 @@ A work in progress list of good albums to listen to once in a while
 - [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3?si=2576de73fd144cc1)
   - [Existence if futile](https://open.spotify.com/album/4u8vK40p0HuNgdtCZzfSDk?si=c475aeb5fa3f4c7f)
 
+https://open.spotify.com/album/7GHADth4LqEtHtt5dCEVKL?si=U6GwReMMRryE2_X_hNJv8Q&dl_branch=1
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
