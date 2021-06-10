@@ -57,9 +57,9 @@
   - [Noaptea dihăniilor](https://open.spotify.com/album/2Vc51wtFcYV1AjIHeedJfQ?si=xkhOkBJSRaGxblByAsnr0g&dl_branch=1)   
 - [Istapp](https://open.spotify.com/artist/6jiRPDlSiIzrd8dzFs2yzM?si=S_wEmsNJQJ-1iySZpQhsMw&dl_branch=1)
   - [Blekinge](https://open.spotify.com/album/02oYVOLrnGRch0kBm0FsFs?si=3UDDfy9STX--EnXs1EV9aw&dl_branch=1)
+- [Carnage](https://open.spotify.com/artist/4aFjkvXJvZCBDIbHESP4qi?si=d331b0ef13ce46f9)
+  - [Dark Recollection](https://open.spotify.com/album/22LcFgiBKdvOv8rotXBJkg?si=UXkZXPkST6SJEWjdWWx_Yw&dl_branch=1)
 
-
-https://open.spotify.com/album/22LcFgiBKdvOv8rotXBJkg?si=UXkZXPkST6SJEWjdWWx_Yw&dl_branch=1
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
