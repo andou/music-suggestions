@@ -1,9 +1,12 @@
-# My awesome list of music suggestions
+![slice](https://capsule-render.vercel.app/api?type=slice&color=ff8c1a&fontColor=333333&height=200&fontSize=50&text=music+🎸+suggestions&fontAlign=70&rotate=13&fontAlignY=25&desc=My+awesome+list+of+music+suggestions&descAlign=70.&descAlignY=44)
+
+
+Disclaimer:  everything is :construction: under construction
 
 ## Index
 <ul>
 <li><a href="#sources-of-inspiration">Sources of inspiration</a></li>
-<li><a href="#masterpieces">Masterpieces</a></li>
+<li><a href="#heavy-metal-rotated">Heavy :metal: Rotated</a></li>
 <li><a href="#pick-an-album">Pick an album</a></li>
 <li><a href="#wishlist">Wishlist</a></li>
 </ul>
@@ -12,7 +15,6 @@
 
 ## Sources of inspiration
 - [Angry Metal Guy](https://www.angrymetalguy.com/)
-  - https://www.angrymetalguy.com/portal-avow-review/ 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -20,6 +22,9 @@
 
 
 ## Heavy :metal: Rotated
+
+A work in progress list of heavy rotable/masterpiece candidate/fucking great albums, organized by metal :metal: subgenre 
+
 - Doom
   - [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp?si=RjUWjTsBRsu6cVk9AlRgbw&dl_branch=1) 
     - [Obsidian](https://open.spotify.com/album/1ameBtOmrJFgiNXx8W7OLx?si=hQOOVQNXSESeb2xhLNJj9w&dl_branch=1)
@@ -40,6 +45,9 @@
 </div>
 
 ## Pick an album
+
+A work in progress list of good albums to listen to once in a while
+
 - [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X?si=fVZfzuWPQpib3KEwpPbr8A&dl_branch=1) 
   - [Premonition](https://open.spotify.com/album/1gQVGrM3icLDTMJm5x9f8V?si=KmGj8AnoSLCtzqxhCm6pew&dl_branch=1)
 - [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3?si=2576de73fd144cc1)
@@ -51,6 +59,9 @@
 </div>
 
 ## Wishlist
+
+A work in progress list of albums I still need to check but I want to
+
 - [Mare Cognitum](https://open.spotify.com/artist/6hk43KSfwt4aYNH5N4qKcO?si=qihcbxzcSNuSSnbPdmHpHQ&dl_branch=1) 
   - [Solar Paroxism](https://open.spotify.com/album/5w0u922qWYRWXN6WPoqy9Y?si=s_JAH9N4TgGbRUMdvs8y4g&dl_branch=1)
 - [Martolea](https://open.spotify.com/artist/1Vzz2uyBtws42M4p4Sl4Db?si=9_xO8SQeRdSytGFbwdn-5A&dl_branch=1)
@@ -59,6 +70,8 @@
   - [Blekinge](https://open.spotify.com/album/02oYVOLrnGRch0kBm0FsFs?si=3UDDfy9STX--EnXs1EV9aw&dl_branch=1)
 - [Carnage](https://open.spotify.com/artist/4aFjkvXJvZCBDIbHESP4qi?si=d331b0ef13ce46f9)
   - [Dark Recollection](https://open.spotify.com/album/22LcFgiBKdvOv8rotXBJkg?si=UXkZXPkST6SJEWjdWWx_Yw&dl_branch=1)
+- [Portal](https://open.spotify.com/artist/1WiZz4d759EPtACSUBEfmt?si=D-g-Ca3aQzizGViUNHYvPQ&dl_branch=1)
+  - [Avow](https://open.spotify.com/album/1V7usKn0ebZ9D4XtHw1JFy?si=6bcba014e9164bf5) 
 
 
 <div align="right">
