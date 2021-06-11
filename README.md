@@ -6,6 +6,7 @@ Disclaimer:  everything is :construction: under construction
 ## Index
 <ul>
 <li><a href="#sources-of-inspiration">Sources of inspiration</a></li>
+<li><a href="#recently-playing">Recently playing</a></li>
 <li><a href="#heavy-metal-rotated">Heavy :metal: Rotated</a></li>
 <li><a href="#pick-an-album">Pick an album</a></li>
 <li><a href="#wishlist">Wishlist</a></li>
@@ -15,11 +16,15 @@ Disclaimer:  everything is :construction: under construction
 
 ## Sources of inspiration
 - [Angry Metal Guy](https://www.angrymetalguy.com/)
+- [Everything is noise](https://everythingisnoise.net/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Recently playing
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1169537090)
 
 ## Heavy :metal: Rotated
 
