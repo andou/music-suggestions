@@ -1,4 +1,5 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=ff8c1a&fontColor=333333&height=200&fontSize=50&text=music+🎸+suggestions&fontAlign=70&rotate=13&fontAlignY=25&desc=My+awesome+list+of+music+suggestions&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff8c1a&height=300&section=header&text=music+🎸suggestions&fontColor=333333&fontSize=75&animation=fadeIn&fontAlignY=38&desc=My+awesome+list+of+music+suggestions&descAlignY=51&descAlign=62)
+
 
 
 Disclaimer:  everything is :construction: under construction
