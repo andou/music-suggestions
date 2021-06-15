@@ -39,11 +39,14 @@ A work in progress list of heavy rotable/masterpiece candidate/fucking great alb
 - Death
   - [Black Dahlia Murders](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS?si=V7GcxYDRSAu6zSuhMfZqIg&dl_branch=1)
     - [Nightbringers](https://open.spotify.com/album/3M9PaUc9DND0HiziKbnedS?si=jUgSEkbWTpKEcWy-Hny_XQ&dl_branch=1)  
-- Thrash
+- Thrash Black
   - [Skeletonwitch](https://open.spotify.com/artist/213mmq3zkNWx7CtfzftTC5?si=X3-57e-sQ6iOkC6YfWgtxg&dl_branch=1)
     - [Forever Abomination](https://open.spotify.com/album/3JwABKYWqvnDs5CLzYXx0P?si=j8J579f0Q92tOqBMiugvWA&dl_branch=1)
     - [Serpents Unleashed](https://open.spotify.com/album/3lratU97bQ4MTCF0JQ1a1y?si=f9UytVdYRyGGjPrPwbU2lw&dl_branch=1) 
-- Black
+  - [Vreid](https://open.spotify.com/artist/2KvwC4Kmp2U8XnKr5Yr1hm?si=KSWS1tgkRjWnk1y5kbGHnA&dl_branch=1)
+    - [I krig](https://open.spotify.com/album/6kGtsFmuAXwQo8kjRGNeWV?si=hhjRgHfcQQi76wgSj8lXqQ&dl_branch=1)  
+    - [Lifehunger](https://open.spotify.com/album/6OnWVB2rNKIgXZY3Z3FRrX?si=DgTLJya2QMeQEq54OwLrqQ&dl_branch=1)
+- Atmospheric Black
   - [Dordeduh](https://open.spotify.com/artist/052X0cOZM6KscHPcJwsPh0?si=c2c2f401b0864bc2)
     - [Har](https://open.spotify.com/album/0fT2m5HyZbZAZ384kElBbp?si=c1ec9ea089b94e79) 
   - [Agalloch](https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT?si=1bce99d72a8d4979)
@@ -52,6 +55,8 @@ A work in progress list of heavy rotable/masterpiece candidate/fucking great alb
     - [OM](https://open.spotify.com/album/06bqLEGmA8E74HdcKxWlbh?si=tcM3qTtgSnC7ze49yqJnCg&dl_branch=1) 
   - [Panopticon](https://open.spotify.com/artist/2Mz5qpR3WxbcBwZBsmraWE?si=e2ed6bfb9d1348df)
     - [Road to the north](https://open.spotify.com/album/3Wj3kaoFezsJQrPAkgi4a6?si=aMjMFKLHQs2Fn6r2k7Bfiw&dl_branch=1) 
+  - [Wolves in the throne room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet?si=SFXbMsv3QMSYBlO6pOT7jA&dl_branch=1)
+    - [Celestial Lineage](https://open.spotify.com/album/3LHSxySCaooKrQxuLtuYSV?si=ZLebQsmDRfiPQfDiMV-wPQ&dl_branch=1) 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
